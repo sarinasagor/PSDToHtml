@@ -95,7 +95,9 @@ h1, h2,h3{
 	font-size: 18px;
 	border-radius: 3px;
 }
-
+.link a:hover {
+    background: #15a4fa;
+}
 .icon {
 	text-align: center;
 }
@@ -289,6 +291,9 @@ h1, h2,h3{
 	margin-top: 12px;
 	float: right;
 	border-radius: 3px;
+}
+.btn:hover{
+  background: #15a4fa;
 }
 
 label {
