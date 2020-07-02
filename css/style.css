@@ -94,10 +94,12 @@ h1, h2,h3{
 	border: 1px solid #15a4fa;
 	font-size: 18px;
 	border-radius: 3px;
+  transition: .4s ease-in-out;
 }
-.link a:hover {
-    background: #15a4fa;
+.link a:hover{
+  background: #15a4fa;
 }
+
 .icon {
 	text-align: center;
 }
@@ -291,6 +293,7 @@ h1, h2,h3{
 	margin-top: 12px;
 	float: right;
 	border-radius: 3px;
+  transition: .4s ease-in-out;
 }
 .btn:hover{
   background: #15a4fa;
@@ -343,4 +346,8 @@ footer p {
 	text-align: center;
 	color: #fff;
 	border-radius: 3px;
+  transition: .4s ease-in-out;
+}
+.social-icon .fa:hover {
+    background: #3F51B5;
 }
