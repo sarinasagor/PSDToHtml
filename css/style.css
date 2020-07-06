@@ -201,7 +201,7 @@ h1, h2,h3{
 .col-1:hover .opacity {
 	visibility: visible;
 	position: absolute;
-	transform: scale(0.9);
+	transform: scale(1);
 }
 
 .col-1 .icon {
